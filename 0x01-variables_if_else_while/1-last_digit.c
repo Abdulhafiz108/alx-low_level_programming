@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - assigns a randmon number to n after each execution
  * Return: 0 (Success)
