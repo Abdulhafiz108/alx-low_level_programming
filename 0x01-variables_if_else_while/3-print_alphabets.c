@@ -5,6 +5,7 @@
 /**
  * main - Prints aplphabets in uppercase and lowercase
  * Return: 0 (sucess)
+*/
 
 int main(void)
 
