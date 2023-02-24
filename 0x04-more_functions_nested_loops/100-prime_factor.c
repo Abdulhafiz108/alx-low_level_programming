@@ -21,5 +21,6 @@ int main(void)
 			maxf = number / x;
 		}
 	}
-	ptintf("%ld\n", maxf);
+	printf("%ld\n", maxf);
 	return (0);
+}
