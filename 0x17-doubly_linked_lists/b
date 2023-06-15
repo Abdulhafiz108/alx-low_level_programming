@@ -1,0 +1,2 @@
+#!/bin/bash
+git add .; git commit -m "doubly_linked_lists"; git push
