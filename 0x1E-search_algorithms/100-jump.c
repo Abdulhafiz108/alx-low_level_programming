@@ -29,6 +29,7 @@ int jump_search(int *array, size_t size, int value)
 					if (array[j] == value)
 						return (j);
 				}
+				return (-1);
 			}
 			else if (array[right] < value)
 			{
